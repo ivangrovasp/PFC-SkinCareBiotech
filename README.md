@@ -23,5 +23,5 @@ El software ha sido desarrollado en el siguiente repositorio https://github.com/
 
 ## MI CONTRIBUCIÓN
 
-He producido software hasta la actualidad en las ramas SB_14, SB_70, SB_87 y main. Con los usuarios Grovass e ivangrovasp.
+He producido software hasta la actualidad en las ramas SB_14, SB_70, SB_87, develop y main. Con los usuarios Grovass e ivangrovasp.
 
