@@ -6,8 +6,6 @@
 
 *[REALIACIÓN](#REALIZACIÓN)
 
-*[Índice](#índice)
-
 *[MI CONTRIBUCIÓN](#mi-contribución)
 
 *[Estado del proyecto](#Estado-del-proyecto)
