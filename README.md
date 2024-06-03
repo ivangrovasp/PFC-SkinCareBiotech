@@ -4,15 +4,13 @@
 
 *[DESCRICPIÓN DEL PROYECTO](#descripción-del-proyecto)
 
-*[REALIACIÓN](#REALIZACIÓN)
-
-*[MI CONTRIBUCIÓN](#mi-contribución)
-
 *[ESTADO DEL PROYECTO](#Estado-del-proyecto)
 
-*[CARACTERÍSTICAS DE LA APLICACIÓN Y DEMOSTRACIÓN](#Características-de-la-aplicación-y-demostración)
+*[REALIACIÓN](#REALIZACIÓN)
 
 *[TECNOLOGÍAS UTILIZADAS](#tecnologías-utilizadas)
+
+*[MI CONTRIBUCIÓN](#mi-contribución)
 
 * [Licencia](#licencia)
 
