@@ -2,9 +2,9 @@
 
 ##Índice
 
-*[DESCRICPIÓN DEL PROYECTO](#DESCRICPIÓN-DEL-PROYECTO)
+*[DESCRICPIÓN DEL PROYECTO](##DESCRICPIÓN-DEL-PROYECTO)
 
-*[Insignias](#insignias)
+*[REALIACIÓN](#insignias)
 
 *[Índice](#índice)
 
