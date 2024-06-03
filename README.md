@@ -1,5 +1,31 @@
 ![skincare-biotech-high-resolution-logo-transparent](https://github.com/ivangrovasp/PFC-SkinCareBiotech/assets/165771185/013e923b-d64c-4ae7-9546-da07eabd5eed)
 
+##Índice
+
+*[## DESCRICPIÓN DEL PROYECTO](#DESCRICPIÓN-DEL-PROYECTO)
+
+*[Insignias](#insignias)
+
+*[Índice](#índice)
+
+*[Descripción del proyecto](#descripción-del-proyecto)
+
+*[Estado del proyecto](#Estado-del-proyecto)
+
+*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+
+*[Acceso al proyecto](#acceso-proyecto)
+
+*[Tecnologías utilizadas](#tecnologías-utilizadas)
+
+*[Personas Contribuyentes](#personas-contribuyentes)
+
+*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+
+* [Licencia](#licencia)
+
+*[Conclusión](#conclusión)
+
 ## DESCRICPIÓN DEL PROYECTO  ![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-red)
 
 Proyecto de fin de ciclo, Desarrollo de Aplicaciones Multiplataforma, basado en la producción de una aplicación web singlepage que sirve como E-COMMERCE para vender productos cosméticos. La producción ha sido guiada por el framework de la empresa Imatia, Ontimize.
