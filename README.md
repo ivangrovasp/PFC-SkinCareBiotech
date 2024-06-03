@@ -18,9 +18,13 @@
 
 *[Conclusión](#conclusión)
 
-## DESCRICPIÓN DEL PROYECTO  ![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-red)
+## DESCRICPIÓN DEL PROYECTO  
 
 Proyecto de fin de ciclo, Desarrollo de Aplicaciones Multiplataforma. El objetivo de este proyecto es el desarrollo de una aplicación web single page, SkinCare Biotech, la cuál sirva de e-commerce para la distribución,venta,compra y marketing de productos cosméticos fabricados por la propia empresa. Además, ofrece la posibilidad de que otros fabricantes o vendedores ajenos a la propia Biotech se den de alta en el portal y puedan vender sus productos. La producción ha sido guiada por el framework de la empresa Imatia, Ontimize.
+
+## ESTADO DEL PROYECTO
+
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-red)
 
 ## REALIZACIÓN
 
