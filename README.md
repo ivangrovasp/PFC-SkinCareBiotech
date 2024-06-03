@@ -22,7 +22,7 @@ Proyecto de fin de ciclo, Desarrollo de Aplicaciones Multiplataforma. El objetiv
 
 ## REALIZACIÓN
 
-El software ha sido desarrollado en el siguiente repositorio https://github.com/CampusDual/cd2024bfs1g1 usando las tecnologías detalladas a continuación:
+El software ha sido desarrollado en el siguiente repositorio https://github.com/CampusDual/cd2024bfs1g1 
 
 ## TECNOLOGÍAS UTILIZADAS
 
