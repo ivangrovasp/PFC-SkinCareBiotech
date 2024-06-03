@@ -2,13 +2,13 @@
 
 ##Índice
 
-*[DESCRICPIÓN DEL PROYECTO](##DESCRICPIÓN-DEL-PROYECTO)
+*[DESCRICPIÓN DEL PROYECTO](#DESCRICPIÓN-DEL-PROYECTO)
 
 *[REALIACIÓN](#REALIZACIÓN)
 
 *[Índice](#índice)
 
-*[Descripción del proyecto](#descripción-del-proyecto)
+*[MI CONTRIBUCIÓN](#mi-contribución)
 
 *[Estado del proyecto](#Estado-del-proyecto)
 
