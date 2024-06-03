@@ -1,6 +1,6 @@
 ![skincare-biotech-high-resolution-logo-transparent](https://github.com/ivangrovasp/PFC-SkinCareBiotech/assets/165771185/013e923b-d64c-4ae7-9546-da07eabd5eed)
 
-##Índice
+## ÍNDICE
 
 *[DESCRICPIÓN DEL PROYECTO](#descripción-del-proyecto)
 
