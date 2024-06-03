@@ -8,7 +8,7 @@
 
 *[MI CONTRIBUCIÓN](#mi-contribución)
 
-*[Estado del proyecto](#Estado-del-proyecto)
+*[ESTADO DEL PROYECTO](#Estado-del-proyecto)
 
 *[CARACTERÍSTICAS DE LA APLICACIÓN Y DEMOSTRACIÓN](#Características-de-la-aplicación-y-demostración)
 
