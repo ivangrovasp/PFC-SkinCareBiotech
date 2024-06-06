@@ -4,7 +4,7 @@
 
 [ACCESO](#acceso)
 
-[DESCRICPIÓN DEL PROYECTO](#descripción-del-proyecto)
+[Descripción del proyecto](#descripción-del-proyecto)
 
 [FUNCIONALIDADES PRINCIPALES](#funcionalidades-principales)
 
@@ -18,7 +18,7 @@
 
 ## ACCESO
 
-Para hacer uso de la web de SkinCare Biotech basta con pinchar en este enlace: https://cd2024bfs1g1.dev.campusdual.com/app/
+Para hacer uso de la web de SkinCare Biotech: https://cd2024bfs1g1.dev.campusdual.com/app/
 
 ![imagen](https://github.com/ivangrovasp/PFC-SkinCareBiotech/assets/165771185/d4ef2d84-9ec8-4a9a-9d95-95c10215e120)
 
