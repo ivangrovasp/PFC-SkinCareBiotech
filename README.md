@@ -4,7 +4,7 @@
 
 [ACCESO](#acceso)
 
-[Descripción del proyecto](#descripción-del-proyecto)
+[DESCRIPCIÓN DEL PROYECTO](#descripción-del-proyecto)
 
 [FUNCIONALIDADES PRINCIPALES](#funcionalidades-principales)
 
