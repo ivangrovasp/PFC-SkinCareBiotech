@@ -20,6 +20,9 @@
 
 Para hacer uso de la web de SkinCare Biotech basta con pinchar en este enlace: https://cd2024bfs1g1.dev.campusdual.com/app/
 
+![imagen](https://github.com/ivangrovasp/PFC-SkinCareBiotech/assets/165771185/d4ef2d84-9ec8-4a9a-9d95-95c10215e120)
+
+
 ## DESCRICPIÓN DEL PROYECTO  
 
 Proyecto de fin de ciclo, Desarrollo de Aplicaciones Multiplataforma. El objetivo de este proyecto es el desarrollo de una aplicación web single page, SkinCare Biotech, la cuál sirva de e-commerce para la distribución,venta,compra y marketing de productos cosméticos fabricados por la propia empresa. Además, ofrece la posibilidad de que otros fabricantes o vendedores ajenos a la propia Biotech se den de alta en el portal y puedan vender sus productos. La producción ha sido guiada por el framework de la empresa Imatia, Ontimize.
